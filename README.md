@@ -12,6 +12,6 @@ A Comunidade JAVA Ribeirão Preto tem como objetivo promover o desenvolvimento e
 
 Entre em contato conosco através do e-mail comunidadejavaribeiraopreto@gmail.com para mais informações sobre a comunidade e nossos eventos.
 
-# Participe da Comunida:
+# Participe da comunidade:
 
 [![WhatsApp](https://img.shields.io/badge/-Grupo%E3%85%A4Whatsapp-Green?style=flat-square&logo=Whatsapp&logoColor=white)](https://chat.whatsapp.com/LoqCp0AbmDm2FfRO1XLM27) 
