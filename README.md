@@ -14,4 +14,4 @@ Entre em contato conosco através do e-mail comunidadejavaribeiraopreto@gmail.co
 
 # Participe da Comunida:
 
-[![Discord](https://img.shields.io/badge/-Grupo%E3%85%A4Whatsapp-Green?style=flat-square&logo=Whatsapp&logoColor=white)]([https://discord.gg/T6XzutQe](https://chat.whatsapp.com/LoqCp0AbmDm2FfRO1XLM27)) 
+[![WhatsApp](https://img.shields.io/badge/-Grupo%E3%85%A4Whatsapp-Green?style=flat-square&logo=Whatsapp&logoColor=white)](https://chat.whatsapp.com/LoqCp0AbmDm2FfRO1XLM27) 
