@@ -5,10 +5,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white)](https://www.instagram.com/comunidadejavaribeiraopreto/)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/T6XzutQe)
 
-### A Comunidade JAVA Ribeirão Preto tem como objetivo promover o desenvolvimento e a troca de conhecimentos sobre a linguagem Java. Oferecemos eventos, workshops e networking para todos os interessados em Java.
+A Comunidade JAVA Ribeirão Preto tem como objetivo promover o desenvolvimento e a troca de conhecimentos sobre a linguagem Java. Oferecemos eventos, workshops e networking para todos os interessados em Java.
 
 
 # Contato
 
-### Entre em contato conosco através do e-mail comunidadejavaribeiraopreto@gmail.com para mais informações sobre a comunidade e nossos eventos.
+Entre em contato conosco através do e-mail comunidadejavaribeiraopreto@gmail.com para mais informações sobre a comunidade e nossos eventos.
 
