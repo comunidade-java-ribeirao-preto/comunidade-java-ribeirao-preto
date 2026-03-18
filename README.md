@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/comunidade-java-ribeirao-preto)](https://github.com/comunidade-java-ribeirao-preto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/comunidade-java-ribeir%C3%A3o-preto-503b50323/)](https://www.linkedin.com/in/comunidade-java-ribeir%C3%A3o-preto-503b50323/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white)](https://www.instagram.com/comunidadejavaribeiraopreto/)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/T6XzutQe)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/TqcZJE6B)
 
 A Comunidade JAVA Ribeirão Preto tem como objetivo promover o desenvolvimento e a troca de conhecimentos sobre a linguagem Java. Oferecemos eventos, workshops e networking para todos os interessados em Java.
 
