@@ -8,6 +8,11 @@
 A Comunidade JAVA Ribeirão Preto tem como objetivo promover o desenvolvimento e a troca de conhecimentos sobre a linguagem Java. Oferecemos eventos, workshops e networking para todos os interessados em Java.
 
 
+# Código de Conduta
+
+Fique por dentro do nosso  [Código de Conduta](https://comunidadejavaribeiraopreto.github.io/site/codigo-de-conduta.html) 
+
+
 # Contato
 
 Entre em contato conosco através do e-mail comunidadejavaribeiraopreto@gmail.com para mais informações sobre a comunidade e nossos eventos.
